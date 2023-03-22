@@ -2,6 +2,8 @@
 
 
 ## References
+### Basics
+* [Deep Learning at VU University Amsterdam](https://dlvu.github.io/)
 ### blogs
 * [TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
 
