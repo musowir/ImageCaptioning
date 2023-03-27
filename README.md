@@ -6,6 +6,7 @@
 * [Deep Learning at VU University Amsterdam](https://dlvu.github.io/)
 ### blogs
 * [TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
+* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
 ### Videos
 * [TRANSFORMERS FROM SCRATCH - DLVU](https://youtube.com/playlist?list=PLIXJ-Sacf8u60G1TwcznBmK6rEL3gmZmV)
