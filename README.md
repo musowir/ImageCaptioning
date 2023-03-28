@@ -4,6 +4,10 @@
 ## References
 ### Basics
 * [Deep Learning at VU University Amsterdam](https://dlvu.github.io/)
+
+### Papers
+* [GIT: A Generative Image-to-text Transformer
+for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf)
 ### blogs
 * [TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
