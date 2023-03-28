@@ -12,6 +12,7 @@ for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf)
 * [TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [Foundations of NLP Explained Visually: Beam Search, How It Works](https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24)
+* [An intuitive explanation of Beam Search](https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f)
 
 ### Videos
 * [TRANSFORMERS FROM SCRATCH - DLVU](https://youtube.com/playlist?list=PLIXJ-Sacf8u60G1TwcznBmK6rEL3gmZmV)
