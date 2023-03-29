@@ -8,6 +8,8 @@
 ### Papers
 * [GIT: A Generative Image-to-text Transformer
 for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf)
+* [CPTR: FULL TRANSFORMER NETWORK FOR IMAGE CAPTIONING
+](https://arxiv.org/pdf/2101.10804.pdf) - Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu - `28 Jan 2021`
 ### blogs
 * [TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
