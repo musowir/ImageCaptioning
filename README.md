@@ -11,12 +11,18 @@ for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf) - JianFeng Wang, 
 * [CPTR: FULL TRANSFORMER NETWORK FOR IMAGE CAPTIONING
 ](https://arxiv.org/pdf/2101.10804.pdf) - Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu - `28 Jan 2021`
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) - Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio - `2016`
+
+
 ### blogs
+* [Learn to Build Image Caption Generator with CNN & LSTM](https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/)
+* [Image Captioning using InceptionV3 and Beam Search](https://yashk2810.github.io/Image-Captioning-using-InceptionV3-and-Beam-Search/)
 * [TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [Foundations of NLP Explained Visually: Beam Search, How It Works](https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24)
 * [An intuitive explanation of Beam Search](https://towardsdatascience.com/an-intuitive-explanation-of-beam-search-9b1d744e7a0f)
-* [Image Captioning using InceptionV3 and Beam Search](https://yashk2810.github.io/Image-Captioning-using-InceptionV3-and-Beam-Search/)
+
+
+
 ### Videos
 * [TRANSFORMERS FROM SCRATCH - DLVU](https://youtube.com/playlist?list=PLIXJ-Sacf8u60G1TwcznBmK6rEL3gmZmV)
 * [Transformer Architecture: Attention is All you Need Paper Explained](https://www.youtube.com/watch?v=VygOX3AyDQs)
