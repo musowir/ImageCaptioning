@@ -7,7 +7,7 @@
 
 ### Papers
 * [GIT: A Generative Image-to-text Transformer
-for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf)
+for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf) - JianFeng Wang, Zhengyuan Yang, Xiaowei Hu, Linjie Li, Kevin Lin, Zhe Gan, Zicheng Liu, Ce Liu, Lijuan Wang - `2022`
 * [CPTR: FULL TRANSFORMER NETWORK FOR IMAGE CAPTIONING
 ](https://arxiv.org/pdf/2101.10804.pdf) - Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu - `28 Jan 2021`
 ### blogs
