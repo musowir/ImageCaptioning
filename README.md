@@ -10,6 +10,7 @@
 for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf) - JianFeng Wang, Zhengyuan Yang, Xiaowei Hu, Linjie Li, Kevin Lin, Zhe Gan, Zicheng Liu, Ce Liu, Lijuan Wang - `2022`
 * [CPTR: FULL TRANSFORMER NETWORK FOR IMAGE CAPTIONING
 ](https://arxiv.org/pdf/2101.10804.pdf) - Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu - `28 Jan 2021`
+* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) - Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio - `2016`
 ### blogs
 * [TRANSFORMERS FROM SCRATCH](https://peterbloem.nl/blog/transformers)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
