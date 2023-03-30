@@ -13,8 +13,8 @@ for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf) - JianFeng Wang, 
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) - Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio - `2016`
 
 #### scores:
-- [BLEU: a Method for Automatic Evaluation of Machine Translation](https://dl.acm.org/doi/pdf/10.3115/1073083.1073135) - Papineni, Kishore & Roukos, Salim & Ward, Todd & Zhu, Wei Jing. - `2002` 
-- [METEOR: An automatic metric for MT evaluation with high levels of correlation with human judgments.](https://www.cs.cmu.edu/~alavie/METEOR/pdf/Banerjee-Lavie-2005-METEOR.pdf) - Lavie, Alon & Agarwal, Abhaya. - `2007` 
+  - [BLEU: a Method for Automatic Evaluation of Machine Translation](https://dl.acm.org/doi/pdf/10.3115/1073083.1073135) - Papineni, Kishore & Roukos, Salim & Ward, Todd & Zhu, Wei Jing. - `2002` 
+  - [METEOR: An automatic metric for MT evaluation with high levels of correlation with human judgments.](https://www.cs.cmu.edu/~alavie/METEOR/pdf/Banerjee-Lavie-2005-METEOR.pdf) - Lavie, Alon & Agarwal, Abhaya. - `2007` 
 
 ### blogs
 * [Learn to Build Image Caption Generator with CNN & LSTM](https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/)
