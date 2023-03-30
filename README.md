@@ -15,6 +15,7 @@ for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf) - JianFeng Wang, 
 #### scores:
   - [BLEU: a Method for Automatic Evaluation of Machine Translation](https://dl.acm.org/doi/pdf/10.3115/1073083.1073135) - Papineni, Kishore & Roukos, Salim & Ward, Todd & Zhu, Wei Jing. - `2002` 
   - [METEOR: An automatic metric for MT evaluation with high levels of correlation with human judgments.](https://www.cs.cmu.edu/~alavie/METEOR/pdf/Banerjee-Lavie-2005-METEOR.pdf) - Lavie, Alon & Agarwal, Abhaya. - `2007` 
+  - [ROUGE: A Package for Automatic Evaluation of Summaries](https://aclanthology.org/W04-1013.pdf) - Lin, Chin-Yew. - `2004`
 
 ### blogs
 * [Learn to Build Image Caption Generator with CNN & LSTM](https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/)
