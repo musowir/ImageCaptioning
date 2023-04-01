@@ -11,7 +11,8 @@ for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf) - JianFeng Wang, 
 ](https://arxiv.org/pdf/2101.10804.pdf) - Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu - `28 Jan 2021`
 * [Self-critical Sequence Training for Image Captioning
 * [Show, Control and Tell](https://arxiv.org/pdf/1811.10652.pdf) - [repo](https://github.com/aimagelab/show-control-and-tell) - Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara - `2019`
-](https://arxiv.org/pdf/1612.00563v2.pdf) - Steven J. Rennie, Etienne Marcheret, Youssef Mroueh, Jerret Ross and Vaibhava Goel - `2017`
+* [Self-critical Sequence Training for Image Captioning](https://arxiv.org/pdf/1612.00563v2.pdf) - Steven J. Rennie, Etienne Marcheret, Youssef Mroueh, Jerret Ross and Vaibhava Goel - `2017`
+
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044) - Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio - `2016`
 
 ### scores:
