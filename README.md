@@ -7,6 +7,7 @@
 ## Papers
 * [GIT: A Generative Image-to-text Transformer
 for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf) - JianFeng Wang, Zhengyuan Yang, Xiaowei Hu, Linjie Li, Kevin Lin, Zhe Gan, Zicheng Liu, Ce Liu, Lijuan Wang - `2022`
+
 * [CPTR: FULL TRANSFORMER NETWORK FOR IMAGE CAPTIONING](https://arxiv.org/pdf/2101.10804.pdf) - Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu - `28 Jan 2021`
 
 * [Aligning Linguistic Words and Visual Semantic Units for Image Captioning](https://arxiv.org/pdf/1908.02127.pdf) - [repo](https://github.com/ltguo19/VSUA-Captioning) - Longteng Guo, Jing Liu1, Jinhui Tang, Jiangwei Li, Wei Luo, Hanqing Lu - `2019`
@@ -23,6 +24,9 @@ for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf) - JianFeng Wang, 
   - [ROUGE: A Package for Automatic Evaluation of Summaries](https://aclanthology.org/W04-1013.pdf) - Lin, Chin-Yew. - `2004`
   - [BLEU: a Method for Automatic Evaluation of Machine Translation](https://dl.acm.org/doi/pdf/10.3115/1073083.1073135) - Papineni, Kishore & Roukos, Salim & Ward, Todd & Zhu, Wei Jing. - `2002` 
  
+## Articles
+
+* [Image captioning model using attention and object features to mimic human image understanding](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00571-w) - Muhammad Abdelhadie Al-Malla, Assef Jafar & Nada Ghneim - `2022`
 
 ## blogs
 * [Learn to Build Image Caption Generator with CNN & LSTM](https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/)
