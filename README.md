@@ -5,6 +5,7 @@
 * [Deep Learning at VU University Amsterdam](https://dlvu.github.io/)
 
 ## Papers
+* [ConZIC: Controllable Zero-shot Image Captioning by Sampling-Based Polishing](https://arxiv.org/pdf/2303.02437.pdf) -Zequn Zeng, Hao Zhang, Ruiying Lu, Dongsheng Wang, Bo Chen - `2023`
 * [GIT: A Generative Image-to-text Transformer
 for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf) - JianFeng Wang, Zhengyuan Yang, Xiaowei Hu, Linjie Li, Kevin Lin, Zhe Gan, Zicheng Liu, Ce Liu, Lijuan Wang - `2022`
 
