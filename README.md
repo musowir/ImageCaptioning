@@ -12,6 +12,7 @@ for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf) - JianFeng Wang, 
 * [CPTR: FULL TRANSFORMER NETWORK FOR IMAGE CAPTIONING](https://arxiv.org/pdf/2101.10804.pdf) - Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu - `28 Jan 2021`
 * [Say As You Wish: Fine-grained Control of Image Caption Generation with Abstract Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Say_As_You_Wish_Fine-Grained_Control_of_Image_Caption_Generation_CVPR_2020_paper.pdf) - [repo](https://github.com/cshizhe/asg2cap) Shizhe Chen1, Qin Jin1, Peng Wang, Qi Wu - `2020`
 
+* [Attention on Attention for Image Captioning](https://arxiv.org/pdf/1908.06954.pdf) - Lun Huang, Wenmin Wang1, Jie Chen, Xiao-Yong Wei - `2019`
 * [Aligning Linguistic Words and Visual Semantic Units for Image Captioning](https://arxiv.org/pdf/1908.02127.pdf) - [repo](https://github.com/ltguo19/VSUA-Captioning) - Longteng Guo, Jing Liu1, Jinhui Tang, Jiangwei Li, Wei Luo, Hanqing Lu - `2019`
 
 * [Show, Control and Tell](https://arxiv.org/pdf/1811.10652.pdf) - [repo](https://github.com/aimagelab/show-control-and-tell) - Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara - `2019`
