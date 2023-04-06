@@ -54,3 +54,4 @@ for Vision and Language](https://arxiv.org/pdf/2205.14100.pdf) - JianFeng Wang, 
 
 ## Others
 * [tensorflow hub](https://www.tensorflow.org/hub)
+* [Keras Applications](https://keras.io/api/applications/)
